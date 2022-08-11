@@ -1,7 +1,5 @@
-### Hi there 👋 
+### Hi there, I'm Brent Min 👋 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=brentmin.brentmin&left_color=green&right_color=red)
-
-I'm Brent Min
 
 - 🔭 I’m currently working at [The Art of Problem Solving](https://artofproblemsolving.com/) as a **Software Engineer**
 - 🌱 I’m currently learning Rust, Machine Learning, and Database Design. Never stop learning!
