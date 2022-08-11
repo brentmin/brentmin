@@ -1,7 +1,7 @@
 ### Hi there 👋 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=brentmin.brentmin&left_color=green&right_color=red)
 
-I'm Brent Min, a
+I'm Brent Min
 
 - 🔭 I’m currently working at [The Art of Problem Solving](https://artofproblemsolving.com/) as a **Software Engineer**
 - 🌱 I’m currently learning Rust, Machine Learning, and Database Design. Never stop learning!
@@ -23,7 +23,6 @@ I'm Brent Min, a
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 ### Tools and Tech
 
