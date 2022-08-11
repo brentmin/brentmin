@@ -10,14 +10,7 @@
 
 - 📫 How to reach me: brentjmin@gmail.com
 
-- 🌎 Hobbies: 
-    - Surfing 🏄
-    - Climbing 🧗
-    - Traveling ✈️
-    - Reading 📖
-    - Backpacking 🏕️
-    - Ultimate 🥏
-    - Snowboarding 🏂
+- 🌎 Hobbies: Surfing 🏄 Climbing 🧗 Traveling ✈️ Reading 📖 Backpacking 🏕️ Ultimate 🥏 Snowboarding 🏂
 
 ### Languages
 
@@ -52,6 +45,8 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![D3](https://img.shields.io/badge/d3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
 
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1269969897&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 <!--
 **brentmin/brentmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
