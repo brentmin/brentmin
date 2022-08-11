@@ -10,6 +10,15 @@
 
 - 📫 How to reach me: brentjmin@gmail.com
 
+- 🌎 Hobbies: 
+    - Surfing 🏄
+    - Climbing 🧗
+    - Traveling ✈️
+    - Reading 📖
+    - Backpacking 🏕️
+    - Ultimate 🥏
+    - Snowboarding 🏂
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
