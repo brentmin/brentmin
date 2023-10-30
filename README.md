@@ -2,7 +2,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=brentmin.brentmin&left_color=green&right_color=red)
 
 - 🔭 I’m currently working at [The Art of Problem Solving](https://artofproblemsolving.com/) as a **Software Engineer**
-- 🌱 I’m currently learning Rust, Machine Learning, and Database Design. Never stop learning!
+- 🌱 I’m currently learning Rust, Machine Learning, and Database Design. Lifelong Learner!
 
 - 🤔 I’m looking for help with parallel and distributed computing
 
